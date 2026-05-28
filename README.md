@@ -5,4 +5,4 @@
 
 
 
-Aqui é o formulario que aprendemos a usar o Banco de Dados com php no formulario aqui a foto mostra a ligação do mysql com o codigo rodando
+Aqui é o formulario que usamos o Banco de Dados com php no formulario aqui a foto mostra a ligação do mysql com o codigo rodando
